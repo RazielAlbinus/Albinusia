@@ -16,9 +16,9 @@ define(['playbackManager', 'pluginManager', 'browser', 'connectionManager', 'eve
 
         var self = this;
 
-        self.name = 'emby.albinusia';
+        self.name = 'emby.Albinusia';
         self.type = 'skin';
-        self.id = 'albinusia';
+        self.id = 'Albinusia';
 
         var dependencyPrefix = self.id;
         var settingsObjectName = dependencyPrefix + '/skinsettings';
