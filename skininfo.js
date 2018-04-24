@@ -1,7 +1,7 @@
 define([''], function () {
 
     return {
-        id: 'albinusia',
-        name: 'emby.albinusia'
+        id: 'Albinusia',
+        name: 'emby.Albinusia'
     };
 });
